@@ -12,6 +12,6 @@ Uso
 
     Clona este repositorio en tu máquina local.
     Importa el proyecto en tu IDE favorito.
-    Configura tu clave de API de ExchangeRate-API en la clase Main en el campo API_KEY.
+    Configura tu clave de API de ExchangeRate-API en la clase Main en el campo apiKey.
     Ejecuta la clase Main para iniciar la aplicación.
     Sigue las instrucciones en la consola para convertir monedas.
