@@ -22,7 +22,7 @@ public class Conversion {
     }
 
     public double convertidor() throws IOException, InterruptedException {
-        String apiKey = "f9cf653c1565c6784bbe2a44";
+        String apiKey = "";
         String urlStr = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/" + baseCode;
 
         HttpClient client = HttpClient.newHttpClient();
